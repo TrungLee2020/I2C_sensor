@@ -57,12 +57,13 @@ void read_data_sensor(SensorConfig *config)
             pthread_exit(NULL);
         }
         usleep(10000); // Chờ 10ms
-        if (read(file, buffer, 2) != 2)
+        if (read(file, buf, 2) != 2)
         {
             perror("Failed to read to the i2c bus");
             pthread_exit(NULL);
         }
-        int h = (buffer[0] << 8) | buffer[1];
+        // int h = (buf[0] << 8) | buf[1];
+        int h = (buf[0] << 8) + buf[1];
         print("Height: %d\n", h);
     }
     close(file);
