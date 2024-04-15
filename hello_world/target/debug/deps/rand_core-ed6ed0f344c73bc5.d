@@ -1,0 +1,10 @@
+C:\Users\trunglx\Desktop\I2C_sensor\hello_world\target\debug\deps\librand_core-ed6ed0f344c73bc5.rmeta: C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\lib.rs C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\block.rs C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\error.rs C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\impls.rs C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\le.rs C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\os.rs
+
+C:\Users\trunglx\Desktop\I2C_sensor\hello_world\target\debug\deps\rand_core-ed6ed0f344c73bc5.d: C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\lib.rs C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\block.rs C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\error.rs C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\impls.rs C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\le.rs C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\os.rs
+
+C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\lib.rs:
+C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\block.rs:
+C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\error.rs:
+C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\impls.rs:
+C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\le.rs:
+C:\Users\trunglx\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0-alpha.1\src\os.rs:

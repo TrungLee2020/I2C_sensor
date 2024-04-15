@@ -14,7 +14,7 @@ struct sensor_config
 } Sensor_Config;
 
 // void set_Sensor(Sensor_Config *config, int i2c_bus, int sensor_addr, char* xshut_pin);
-void active_sensor();
+void active_sensor(Sensor_Config *config);
 void read_data_sensor(Sensor_Config *config);
 
 #endif 

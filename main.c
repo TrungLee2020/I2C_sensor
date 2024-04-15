@@ -16,8 +16,8 @@
 //     config->sensor_addr = SENSOR_ADDR;
 //     config->xshut_pin = XSHUT_PIN;
 // }
-void active_sensor(){
-    int fd = open(XSHUT_PIN, O_WRONLY);
+void active_sensor(Sensor_Config *config){
+    int fd = open(config->xshut_pin, O_WRONLY);
     if (fd < 0)
     {
         perror("Failed to open GPIO Xshut pin.");
